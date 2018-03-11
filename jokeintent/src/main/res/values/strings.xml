@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">jokeIntent</string>
+    <string name="activity_joke_intent_placeholder_text">This should be a joke</string>
 </resources>

@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">BuildItBigger</string>
+    <string name="activity_get_jokes_button">Get Joke</string>
+    <string name="ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
 </resources>
